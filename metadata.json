@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Buanawasse Mateus Official Store",
+  "description": "Plataforma oficial de venda de álbuns e músicas de Buanawasse Mateus, com assistente de IA integrado para recomendações personalizadas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
